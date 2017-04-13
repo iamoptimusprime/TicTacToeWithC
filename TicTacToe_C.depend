@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1486188349 source:d:\test\tictactoe_c\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
